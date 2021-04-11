@@ -1,0 +1,7 @@
+{
+    "name": "socialify",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
